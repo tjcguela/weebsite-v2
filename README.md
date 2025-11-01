@@ -1,4 +1,4 @@
-## <strong> A prototype of a concept mobile app </strong>
+## WEEBSITE: A prototype of a concept mobile app 
 <p style="font-size: 14px; margin-top: -10px;">What if Shopee, Twitter, and Deviant Art had a baby ...? 🤔</p>
 
 <p>
